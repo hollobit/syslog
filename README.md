@@ -1,4 +1,4 @@
-This repository is the home of the **System log API** specification being worked on by the System Applications Working Group.
+This repository is the home of the draft of **System log API** specification being worked on by the System Applications Working Group.
 
 How to contribute?
 -
